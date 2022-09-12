@@ -38,16 +38,13 @@ body{
     background-color:transparent;
 
 }
-.timer{
+.score{
     text-align: center;
-    font-size:  50px;;
+    font-size:  50px;
 }
 .rival{
     padding-left: 40px;
 }
-.score{
-    position: absolute;
-    top: 85%;
-    right: 30%;
-    left: 30%;
+.player{
+    padding-left: 40px;
 }
